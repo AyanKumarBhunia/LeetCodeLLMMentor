@@ -51,7 +51,6 @@ A Chrome extension that analyzes LeetCode problems and your code attempts, provi
 3. Click **Analyse Your Solution**.
 4. The extension will extract the problem and code, save a JSON, and open a full-page UI.
 5. The full-page UI will call your local LLM (via the Python proxy) and display a markdown-formatted analysis and hints.
-6. The UI is fully responsive and works on any screen size.
 
 ---
 
